@@ -1,4 +1,4 @@
-SpreadSheetAi
+
 SpreadSheetAi is an AI-powered assistant that helps users extract insights from their Excel data by answering natural language questions.
 Key Features
 Seamless Excel Integration: Easily connect your Excel files and query the data using plain language.
